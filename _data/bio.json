@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Allesandra F. Sams-Jones",
+    "label": "Consultant",
+    "picture": "https://github.com/afsamsjones.png",
+    "email": "sandrasj8495@gmail.com",
+    "phone": "502-409-1406",
+    "website": "https://afsamsjones.github.io",
+    "summary": "I have a B.S. in Business Administration from Sullivan University and I'm studing for an A.S. in Information Technology from Sullivan University. I expect to graduate in Summer, 2022.",
+    "location": { "address": "6911 Walnut Farm Drive", "postalCode": "40229", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "afsamsjones", "url": "http://github.com/afsamsjones" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/allesandra-sams-jones-4572498a" },
+ 
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Database design" },
+    { "name": "SQL" },
+    { "name": "Crafting" }
   ],
   "skills": [
     {
