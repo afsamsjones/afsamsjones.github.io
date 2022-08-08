@@ -17,16 +17,17 @@
   "interests": [
     { "name": "Database design" },
     { "name": "SQL" },
-    { "name": "Crafting" }
+    { "name": "CSS" },
+    { "name": "HTML" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows OS", "Git/GitHub" ]
     }
   ],
   "education": [
