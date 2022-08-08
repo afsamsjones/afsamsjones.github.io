@@ -42,57 +42,53 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Humana, Inc.",
+      "position": "Consultant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Data and reporting consultant for Retail Claims Organization",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provide ad hoc reports via SQl, TOAD, and Netezza based on various parameters for entire Retail Claims Organization leadership team ",
+        "Ensure VIP claims (politicians, high-level retired executives) are processed correctly",
+        "Design and maintain several database for departments across the organization ",
+        "Administrator/Trainer for a production monitoring tool that gathers production data for 700+ associates ",
+        "Administrator and creator of several SharePoint sites for the Retail Claims Organization"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Humana",
+      "position": "Business Consultant",
+      "website": "",
+      "startDate": "2014-08",
+      "endDate": "2019-10",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Worked with Claims Process Organization to ensure that claims processes functioned in the manner intended",
+        "Identified impacts to the claims organization for new or updated processes",
+        "Identified areas of improvement within the claims process for multiple teams",
+        "Identified cost savings related to productivity or quality improvements"
       ]
     },
-    {
-      "organization": "",
+ 
+   {
+      "company": "Humana",
+      "position": "Supervisor",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2004-05",
+      "endDate": "2014-08",
+      "summary": "Supervisor for multiple production teams with as many as 38 direct reports at one time",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Ensured appropriate staffing levels were achieved to ensure resources are managed effectively",
+        "Identified and analyzed variation in individual performance metrics and proactively worked to remove barriers and improve performance",
+        "Built several inventory tools to increase efficiency of pend aging reporting for peers.",
+        "Designed and maintained a peer review database that has saved more than $9,000,000 in under- and overpayments since its inception in 2010",
+        "Designed and maintained multiple database for several teams across the organization including databases for work from acquired companies",
+        "Lead several projects that reduced administrative costs by hundreds of thousands of dollars"
       ]
     }
   ],
+ 
   "awards": [
     {
       "title": "B+ Scholarship",
