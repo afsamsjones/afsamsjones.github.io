@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "afsamsjones", "url": "http://github.com/afsamsjones" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/allesandra-sams-jones-4572498a" },
- 
-    ]
+     ]
   },
   "interests": [
     { "name": "Database design" },
