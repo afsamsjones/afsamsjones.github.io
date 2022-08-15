@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/guessmynum.jpg
+image: img/dbmenu.jpg
 title: "University Student Database"
 date: 2022-07-01
 published: true
