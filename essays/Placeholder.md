@@ -4,7 +4,7 @@ type: essay
 title: "Placeholder for Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-08
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
