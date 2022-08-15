@@ -9,17 +9,20 @@ labels:
   - Database Design
 ---
 
-Online University Student Database
-Introduction/Project Summary
-Objectives
+## Online University Student Database
+## Introduction/Project Summary
+
+## Objectives
 The purpose of the Online University Student Database is to provide administrators with the capability to enter a wide variety of data points for incoming students. The GUI will allow the user to enter information (student name, home address, social security number, date of birth, picture ID, declared major, degree program, grades, instructor information, create and assign courses to students and instructors, enter and process tuition payments, etc.) The data entered will allow users to generate various reports based on specified criteria (student grade reports, tuition due, payments, enrolled classes, etc.).
-Overview
+
+## Overview
 Project Title: Online University Student Database
 Customers: Student Affairs department
 Developers: Allesandra Sams-Jones
 Users: Admissions advisors, academic advisors, financial advisors, 
 Project Manager: Professor Scott Cordle 
-System Description
+
+## System Description
 System Requirements
 	This database is designed for laptop and desktop use. All potential users must have Microsoft Access installed on their workstations.
 Major Feature Specifications
@@ -27,19 +30,20 @@ Major Feature Specifications
 2.	Data will only be accessible to admissions advisers, academic advisers, and their leaders based on role-based security constraints.
 3.	Various elements can be entered and tracked included, but not limited to student personal/contact information, grades, enrolled courses, financial obligations, instructor class assignments, etc. 
 4.	Users will be able to export/email reports in various formats.
-System Diagram
+
+## System Diagram
 	Relationships table (Appendix A)
-Hardware Overview Diagram
+## Hardware Overview Diagram
 	Hardware diagram (Appendix B)
-Software Overview Diagram
+## Software Overview Diagram
 	No software diagram is needed because the entire database is contained within Microsoft Access.
-Economical, technical and time constraints
+## Economical, technical and time constraints
 	This deliverable has a 5-week time frame and a budget of $10,500. Any additional requirements outside of the stated scope would cause the project to exceed budgetary and time constraints. All requirements can be met within Microsoft Access. Additional requirements that fall outside of Access will cause the project to exceed the technical constraints in addition to the budgetary and time constraints. 
-Hardware Detailed Implementation
+## Hardware Detailed Implementation
 	This database was designed using Microsoft Access. The hardware required will be either a laptop or desktop computer.
-Software Detailed Implementation
+## Software Detailed Implementation
 	This is a Microsoft Access database, specifically, Access 2016 Version 2206 Build 16.0.15330.20260.  The user must have Microsoft Access installed on his/her computer. The user will be granted access to the folder on the drive where the front end of the databased is housed. 
-Test/Evaluation Experimental Procedure and Analysis of Results
+## Test/Evaluation Experimental Procedure and Analysis of Results
 Database Security
 	Before any university employee can access the database, the database administrator will need to enter roles and access levels in the Access Level table, then enter users and their role-based access levels in the User table. This is accessed by completing the security requirements, then choosing the Database Security Portal on the main menu.
 Student Admissions
@@ -58,11 +62,11 @@ Student Account Ledger
 The Student Account Ledgers Portal (Appendix K) allows the finance employee to review the student financial statement. The user has two report options:  review all students or choose a specific student. When choosing a specific student’s report, the student’s home and school email are prefilled in order to provide that information to the user if they prefer to email the report to the student. 
 Student Grade Report
 The Student Grade Report (Appendix L) provides a report for each student showing their list of classes, the grade received, the quality points, and GPA.
-Societal impact of project including legal and ethical considerations
+## Societal impact of project including legal and ethical considerations
 	There are potential legal and ethical considerations to consider with this database. Although each portal is password protected, there could be issues when an employee is also a family member of a student. A conflict of interest could arise if that employee has the capability to alter student tuition payments or change student grades to benefit their family member. 
-Conclusions
+## Conclusions
 	No additional hardware is needed for this software at this time. Users may choose to access the database from a laptop or a desktop computer. The database has been split so that the front end can be placed on the user’s workstation; the backend is housed on a network drive. 
-Recommendations for Future Work
+## Recommendations for Future Work
 	There are a number of enhancements that can be made as the university’s needs change:
 1.	If, at any point, the university decides to offer housing, the database could be updated to include that information. 
 2.	There is potential to expand Human Resources’ footprint within the database by adding employee payroll and accounting data. 
@@ -71,12 +75,19 @@ Recommendations for Future Work
 5.	Move the database to a platform that supports mobile phone access.
 
 
-References
+## References
 EduWorld, P. (n.d.). Create a Login Form in Access Using Macro Event. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=FxUFryv3OGg
+
 Eye, T. G. (n.d.). How to Create Login Form with Security Type in Access Database. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=KQJImKNH0fA
+
 Microsoft, Inc. (2013, May 31). Answers.Microsoft. Retrieved from Pop-up / modal forms not showing!: https://answers.microsoft.com/en-us/msoffice/forum/all/pop-up-modal-forms-not-showing/91d4e36f-7bd6-4186-babf-8ef572de64ce
+
 Ross, R. (n.d.). How to Use the AutoSize Form Property in Microsoft Access to Keep Your Forms at the Size You Want. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=5o0JuIJy_CM
+
 Ross, R. (n.d.). How to Use the MsgBox Command in Microsoft Access VBA to Create an "Are You Sure?" Prompt. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=xrhZiuCyyjc&t=367s
+
 Ross, R. (n.d.). Simple Security for Microsoft Access Databases. Hide Tables. Disable Ribbon. Make ACCDE File. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=8G7oqRVeVDs&t=727s
+
 Tutor, T. O. (n.d.). How To Calculate Your GPA In College. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=qYHsThZWydY
+
 van Thiphout, T., Diamond, S., Wood, P., & Bardinelli, P. (n.d.). Login Security Using Access VBA. Retrieved from Access Security Blog
