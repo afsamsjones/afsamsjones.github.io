@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Allesandra F. Sams-Jones",
+    "label": "Consultant",
+    "picture": "https://github.com/afsamsjones.png",
+    "email": "sandrasj8495@gmail.com",
+    "phone": "502-409-1406",
+    "website": "https://afsamsjones.github.io",
+    "summary": "I have a B.S. in Business Administration from Sullivan University and I'm studing for an A.S. in Information Technology from Sullivan University. I expect to graduate in Summer, 2022.",
+    "location": { "address": "6911 Walnut Farm Drive", "postalCode": "40229", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
+    "profiles": [
+      { "network": "github", "username": "afsamsjones", "url": "http://github.com/afsamsjones" },
+      { "network": "linkedin", "username": "allesandrasamsjones", "url": "http://linkedin.com/in/allesandra-sams-jones-4572498a" },
+     ]
+  },
+  "interests": [
+    { "name": "Database design" },
+    { "name": "SQL" },
+    { "name": "CSS" },
+    { "name": "HTML" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C#", "SQL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows OS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Information Technology (expected Summer, 2022)",
+      "studyType": "A.S.",
+      "startDate": "2020-03-02",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Business Administration",
+      "studyType": "B.S.",
+      "startDate": "2010-09-27",
+      "endDate": "2015-09-13",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "University of Louisville, Louisville, KY",
+      "area": "Accounting (didn't complete)",
+      "studyType": "B.S.",
+      "startDate": "1990-08",
+      "endDate": "1993-05",
+      "courses": [
+      ]
+    }
+
+  ],
+  "work": [
+    {
+      "company": "Humana, Inc.",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "2019-10",
+      "endDate": "Present",
+      "summary": "Data and reporting consultant for Retail Claims Organization",
+      "highlights": [
+        "Provide ad hoc reports via SQl, TOAD, and Netezza based on various parameters for entire Retail Claims Organization leadership team ",
+        "Ensure VIP claims (politicians, high-level retired executives) are processed correctly",
+        "Design and maintain several database for departments across the organization ",
+        "Administrator/Trainer for a production monitoring tool that gathers production data for 700+ associates ",
+        "Administrator and creator of several SharePoint sites for the Retail Claims Organization"
+      ]
+    },
+    {
+      "company": "Humana",
+      "position": "Business Consultant",
+      "website": "",
+      "startDate": "2014-08",
+      "endDate": "2019-10",
+      "summary": "",
+      "highlights": [
+        "Worked with Claims Process Organization to ensure that claims processes functioned in the manner intended",
+        "Identified impacts to the claims organization for new or updated processes",
+        "Identified areas of improvement within the claims process for multiple teams",
+        "Identified cost savings related to productivity or quality improvements"
+      ]
+    },
+ 
+   {
+      "company": "Humana",
+      "position": "Supervisor",
+      "website": "",
+      "startDate": "2004-05",
+      "endDate": "2014-08",
+      "summary": "Supervisor for multiple production teams with as many as 38 direct reports at one time",
+      "highlights": [
+        "Ensured appropriate staffing levels were achieved to ensure resources are managed effectively",
+        "Identified and analyzed variation in individual performance metrics and proactively worked to remove barriers and improve performance",
+        "Built several inventory tools to increase efficiency of pend aging reporting for peers.",
+        "Designed and maintained a peer review database that has saved more than $9,000,000 in under- and overpayments since its inception in 2010",
+        "Designed and maintained multiple database for several teams across the organization including databases for work from acquired companies",
+        "Lead several projects that reduced administrative costs by hundreds of thousands of dollars"
+      ]
+    },
+     {
+      "company": "New Covenant Baptist Church",
+      "position": "Administrative Assistant",
+      "website": "",
+      "startDate": "2002-09",
+      "endDate": "2015-09",
+      "summary": "Served as administrative assistant to two pastors for a congregation of over 500 people",
+       "highlights": [
+        "Managed accounts receivables by entering member contributions into a software program for an accurate accounting of funds",
+        "Managed accounts payables by organizing bills for timely payment and writing checks",
+        "Creator, designer and former webmaster of Newcovenantbc.org, the church’s official website",
+        "Designed and operated audio/visual enhancements on multiple plasma screens throughout the facility during weekly worship experience using Sunday Plus software"
+      ]
+    },
+     {
+      "company": "Humana",
+      "position": "Production Lead",
+      "website": "",
+      "startDate": "2002-02",
+      "endDate": "2004-05",
+      "summary": "",
+      "highlights": [
+        "Responsible for assisting adjusters with complex claims issues and helping them resolve them appropriately",
+        "Coordinated unit huddles and disseminated processing information through huddle documents and quick reference guides that I create",
+        "Performed root cause analysis coupled with tracking and trending of various claims issues",
+        "Responded to market requests for claims reprocessing and investigation"
+      ]
+    },
+    {
+      "company": "Humana",
+      "position": "Benefit Analyst/Claims Adjuster",
+      "website": "",
+      "startDate": "1999-03",
+      "endDate": "2002-02",
+      "summary": "",
+      "highlights": [
+        "Completed accurate and timely adjudication of complex claims",
+        "Handled customer service duties (answered calls from members and providers, ordered id cards, resolving claims issues, etc.)",
+        "Carried out accurate and timely completion of numerous complex special projects",
+        "Acted as team lead for one year in the absence of official team lead"
+      ]
+    },
+     {
+      "company": "Humana",
+      "position": "Data Entry Specialist",
+      "website": "",
+      "startDate": "1997-09",
+      "endDate": "1999-03",
+      "summary": "",
+      "highlights": [
+        "	Keyed claims into data entry system with high degree of accuracy while maintaining quantitative standards",
+        "	Trained new associates on the data entry system "
+         ]
+    }
+  ],
+ 
+  "awards": [
+    {
+      "title": "Multiple STAR Award recipient",
+      "date": "2004, 2009, 2011, 2012, 2014, 2015, 2016, 2018",
+      "awarder": "Humana",
+      "summary": "STAR Awards are granted to associates who significantly reduce administrative cost by improving productivity, quality, etc."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2010",
+      "awarder": "Sullivan University",
+      "summary": "I received this after my first semester for making all As while carrying a full course load. ."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
