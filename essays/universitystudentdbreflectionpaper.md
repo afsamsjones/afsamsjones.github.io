@@ -104,18 +104,21 @@ van Thiphout, T., Diamond, S., Wood, P., & Bardinelli, P. (n.d.). Login Security
 Relationships table
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixa.png">
-...
+
+
 ##### Appendix B
 
 Hardware diagram
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixb.png">
-...
+
+
 ##### Appendix C
 
 Login screen
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixc.png">
+
 
 ##### Appendix D
 
@@ -123,11 +126,13 @@ Main Menu
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixd.png">
 
+
 ##### Appendix E
 
 Student Admissions Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixe.png">
+
 
 ##### Appendix F
 
@@ -135,11 +140,13 @@ Enrollment Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixf.png">
 
+
 ##### Appendix G
 
 Course Grading Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixg.png">
+
 
 ##### Appendix H
 
@@ -147,11 +154,13 @@ Instructor Data Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixh.png">
 
+
 ##### Appendix I
 
 Course Creation Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixi.png">
+
 
 ##### Appendix J
 
@@ -159,17 +168,20 @@ Tuition Payment Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixj.png">
 
+
 ##### Appendix K
 
 Student Account Ledger Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixk.png">
 
+
 ##### Appendix L
 
 Student Grade Report 
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixl.png">
+
 
 ##### Appendix M
 
