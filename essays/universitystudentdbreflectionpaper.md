@@ -102,50 +102,62 @@ van Thiphout, T., Diamond, S., Wood, P., & Bardinelli, P. (n.d.). Login Security
 Appendix A
 
 Relationships table
+img/appendixa.png
 
 Appendix B
 
 Hardware diagram
+img/appendixb.png
 
 Appendix C
 
 Login screen
+img/appendixc.png
 
 Appendix D
 
 Main Menu
+img/appendixd.png
 
 Appendix E
 
 Student Admissions Portal
+img/appendixe.png
 
 Appendix F
 
 Enrollment Portal
+img/appendixf.png
 
 Appendix G
 
 Course Grading Portal
+img/appendixg.png
 
 Appendix H
 
 Instructor Data Portal
+img/appendixh.png
 
 Appendix I
 
 Course Creation Portal
+img/appendixi.png
 
 Appendix J
 
 Tuition Payment Portal
+img/appendixj.png
 
 Appendix K
 
 Student Account Ledger Portal
+img/appendixk.png
 
 Appendix L
 
 Student Grade Report 
+img/appendixl.png
 
 Appendix M
 
