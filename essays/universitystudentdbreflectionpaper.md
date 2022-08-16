@@ -34,45 +34,45 @@ Major Feature Specifications
 ##### System Diagram
 	Relationships table (Appendix A)
 	
-## Hardware Overview Diagram
+##### Hardware Overview Diagram
 	Hardware diagram (Appendix B)
 	
-## Software Overview Diagram
+##### Software Overview Diagram
 	No software diagram is needed because the entire database is contained within Microsoft Access.
 	
-## Economical, technical and time constraints
+##### Economical, technical and time constraints
 	This deliverable has a 5-week time frame and a budget of $10,500. Any additional requirements outside of the stated scope would cause the project to exceed budgetary and time constraints. All requirements can be met within Microsoft Access. Additional requirements that fall outside of Access will cause the project to exceed the technical constraints in addition to the budgetary and time constraints. 
 	
-## Hardware Detailed Implementation
+##### Hardware Detailed Implementation
 	This database was designed using Microsoft Access. The hardware required will be either a laptop or desktop computer.
 	
-## Software Detailed Implementation
+##### Software Detailed Implementation
 	This is a Microsoft Access database, specifically, Access 2016 Version 2206 Build 16.0.15330.20260.  The user must have Microsoft Access installed on his/her computer. The user will be granted access to the folder on the drive where the front end of the databased is housed. 
 	
-## Test/Evaluation Experimental Procedure and Analysis of Results
-## Database Security
+##### Test/Evaluation Experimental Procedure and Analysis of Results
+##### Database Security
 	Before any university employee can access the database, the database administrator will need to enter roles and access levels in the Access Level table, then enter users and their role-based access levels in the User table. This is accessed by completing the security requirements, then choosing the Database Security Portal on the main menu.
-## Student Admissions
+##### Student Admissions
 As students are admitted into the university, the admissions user will open the database. The first screen that appears is the login screen (Appendix C). The user will enter the username and password, and click the LOGIN button to open the menu. If the wrong password is entered, an error message (Password does not match, please re-enter) is generated. If the user doesn’t have proper clearance another error, (You are not authorized to access this form) is generated. Upon verification of ID, the admissions employee will access the main menu (Appendix D) and choose the Student Admissions portal (Appendix E) and will enter all of the required data elements and assign a student ID to the new student. Admission ID is automatically generated and is the primary key. 
-## Enroll in Classes
+##### Enroll in Classes
 The course enrollment user will follow the same password verification process, and from the menu, open the Enrollment Portal (Appendix F), choose the Student ID from the drop-down box, and enter each course the user will take.  It prefills the degree program and declared major to assist the user in determining which classes to enroll the student in. For ease of use, there are tabs provided with the course lists for all degree programs offered by the university.
-## Enter Grades
+##### Enter Grades
 Instructors will follow the same password verification process, open the Enter Course Grades Portal (Appendix G) and, within the list of classes being taken currently, locate their student. He/she can enter the grades for students, change the status from Current to Completed, then exit the form.
-## Create Instructors
+##### Create Instructors
 The Create Instructors Portal (Appendix H) allows the human resources employee the capability to enter a new instructor’s name, rank, and bi-weekly salary. The primary key is Instructor ID, which is created by the user. The annual salary is a calculated field based on what is entered in the bi-weekly salary field.
-## Create Courses
+##### Create Courses
 The Course Creation Portal (Appendix I) allows the user, after completing the password verification process, to create a course by entering the course ID, course name, credit hours, prerequisite, and assign an instructor. After saving the record(s) the form can be exited. 
-## Process Tuition Payments
+##### Process Tuition Payments
 The Tuition Payments Portal (Appendix J) allows the user to enter tuition payments received from the student or other entities. The system generates a payment ID and a drop-down box locates the student ID. The user enters the pay date, pay method, authorization or check number (if received), credit card type (if needed), and the payment amount. After each transaction is saved, the user can close the form/database.
-## Student Account Ledger
+##### Student Account Ledger
 The Student Account Ledgers Portal (Appendix K) allows the finance employee to review the student financial statement. The user has two report options:  review all students or choose a specific student. When choosing a specific student’s report, the student’s home and school email are prefilled in order to provide that information to the user if they prefer to email the report to the student. 
-## Student Grade Report
+##### Student Grade Report
 The Student Grade Report (Appendix L) provides a report for each student showing their list of classes, the grade received, the quality points, and GPA.
-## Societal impact of project including legal and ethical considerations
+##### Societal impact of project including legal and ethical considerations
 	There are potential legal and ethical considerations to consider with this database. Although each portal is password protected, there could be issues when an employee is also a family member of a student. A conflict of interest could arise if that employee has the capability to alter student tuition payments or change student grades to benefit their family member. 
-## Conclusions
+##### Conclusions
 	No additional hardware is needed for this software at this time. Users may choose to access the database from a laptop or a desktop computer. The database has been split so that the front end can be placed on the user’s workstation; the backend is housed on a network drive. 
-## Recommendations for Future Work
+##### Recommendations for Future Work
 	There are a number of enhancements that can be made as the university’s needs change:
 1.	If, at any point, the university decides to offer housing, the database could be updated to include that information. 
 2.	There is potential to expand Human Resources’ footprint within the database by adding employee payroll and accounting data. 
@@ -99,85 +99,85 @@ Tutor, T. O. (n.d.). How To Calculate Your GPA In College. Retrieved from You Tu
 van Thiphout, T., Diamond, S., Wood, P., & Bardinelli, P. (n.d.). Login Security Using Access VBA. Retrieved from Access Security Blog
 
 ## Appendix
-Appendix A
+##### Appendix A
 
 Relationships table
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixa.png">
 ...
-Appendix B
+##### Appendix B
 
 Hardware diagram
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixb.png">
 ...
-Appendix C
+##### Appendix C
 
 Login screen
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixc.png">
 
-Appendix D
+##### Appendix D
 
 Main Menu
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixd.png">
 
-Appendix E
+##### Appendix E
 
 Student Admissions Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixe.png">
 
-Appendix F
+##### Appendix F
 
 Enrollment Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixf.png">
 
-Appendix G
+##### Appendix G
 
 Course Grading Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixg.png">
 
-Appendix H
+##### Appendix H
 
 Instructor Data Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixh.png">
 
-Appendix I
+##### Appendix I
 
 Course Creation Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixi.png">
 
-Appendix J
+##### Appendix J
 
 Tuition Payment Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixj.png">
 
-Appendix K
+##### Appendix K
 
 Student Account Ledger Portal
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixk.png">
 
-Appendix L
+##### Appendix L
 
 Student Grade Report 
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixl.png">
 
-Appendix M
+##### Appendix M
 
 Software Installation Instructions
 
 		Users will be granted access to the drive that houses the front end of the database. The user will drag the database from the drive onto his/her desktop. Placing the database on the desktop will allow the user to make minimal customizations that won’t impact other users. If his/her copy gets corrupted, a fresh copy can be retrieved from the drive and placed on the desktop again. 
 
-Appendix N
+##### Appendix N
 
 Acknowledgements
 
