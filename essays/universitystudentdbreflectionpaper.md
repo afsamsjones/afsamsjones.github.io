@@ -102,7 +102,7 @@ van Thiphout, T., Diamond, S., Wood, P., & Bardinelli, P. (n.d.). Login Security
 Appendix A
 
 Relationships table
-image: img/appendixa.png
+src="../img/appendixa.png"
 
 Appendix B
 
