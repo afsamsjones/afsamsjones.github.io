@@ -9,20 +9,20 @@ labels:
   - Database Design
 ---
 
-### Online University Student Database
+# Online University Student Database
 ## Introduction/Project Summary
 
-## Objectives
+##### Objectives
 The purpose of the Online University Student Database is to provide administrators with the capability to enter a wide variety of data points for incoming students. The GUI will allow the user to enter information (student name, home address, social security number, date of birth, picture ID, declared major, degree program, grades, instructor information, create and assign courses to students and instructors, enter and process tuition payments, etc.) The data entered will allow users to generate various reports based on specified criteria (student grade reports, tuition due, payments, enrolled classes, etc.).
 
-## Overview
+##### Overview
 Project Title: Online University Student Database
 Customers: Student Affairs department
 Developers: Allesandra Sams-Jones
 Users: Admissions advisors, academic advisors, financial advisors, 
 Project Manager: Professor Scott Cordle 
 
-## System Description
+##### System Description
 System Requirements
 	This database is designed for laptop and desktop use. All potential users must have Microsoft Access installed on their workstations.
 Major Feature Specifications
@@ -31,7 +31,7 @@ Major Feature Specifications
 3.	Various elements can be entered and tracked included, but not limited to student personal/contact information, grades, enrolled courses, financial obligations, instructor class assignments, etc. 
 4.	Users will be able to export/email reports in various formats.
 
-## System Diagram
+##### System Diagram
 	Relationships table (Appendix A)
 	
 ## Hardware Overview Diagram
