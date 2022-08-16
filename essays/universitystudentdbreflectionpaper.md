@@ -108,57 +108,68 @@ Relationships table
 Appendix B
 
 Hardware diagram
-image:img/appendixb.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixb.png">
 
 Appendix C
 
 Login screen
-image:img/appendixc.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixc.png">
 
 Appendix D
 
 Main Menu
-image:img/appendixd.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixd.png">
 
 Appendix E
 
 Student Admissions Portal
-image:img/appendixe.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixe.png">
 
 Appendix F
 
 Enrollment Portal
-image:img/appendixf.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixf.png">
 
 Appendix G
 
 Course Grading Portal
-image:img/appendixg.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixg.png">
 
 Appendix H
 
 Instructor Data Portal
-image:img/appendixh.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixh.png">
 
 Appendix I
 
 Course Creation Portal
-image:img/appendixi.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixi.png">
 
 Appendix J
 
 Tuition Payment Portal
-image:img/appendixj.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixj.png">
 
 Appendix K
 
 Student Account Ledger Portal
-image:img/appendixk.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixk.png">
 
 Appendix L
 
 Student Grade Report 
-image:img/appendixl.png
+
+<img width="300px" class="rounded float-start pe-4" src="../img/appendixl.png">
 
 Appendix M
 
