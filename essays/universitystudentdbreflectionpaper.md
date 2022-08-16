@@ -9,7 +9,7 @@ labels:
   - Database Design
 ---
 
-## Online University Student Database
+### Online University Student Database
 ## Introduction/Project Summary
 
 ## Objectives
@@ -104,13 +104,13 @@ Appendix A
 Relationships table
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixa.png">
-
+...
 Appendix B
 
 Hardware diagram
 
 <img width="300px" class="rounded float-start pe-4" src="../img/appendixb.png">
-
+...
 Appendix C
 
 Login screen
