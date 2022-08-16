@@ -97,3 +97,49 @@ Ross, R. (n.d.). Simple Security for Microsoft Access Databases. Hide Tables. Di
 Tutor, T. O. (n.d.). How To Calculate Your GPA In College. Retrieved from You Tube Web site: https://www.youtube.com/watch?v=qYHsThZWydY
 
 van Thiphout, T., Diamond, S., Wood, P., & Bardinelli, P. (n.d.). Login Security Using Access VBA. Retrieved from Access Security Blog
+
+## Appendix
+Appendix A
+Relationships table
+
+Appendix B
+Hardware diagram
+
+Appendix C
+Login screen
+
+Appendix D
+Main Menu
+
+Appendix E
+Student Admissions Portal
+
+Appendix F
+Enrollment Portal
+
+Appendix G
+Course Grading Portal
+
+Appendix H
+Instructor Data Portal
+
+Appendix I
+Course Creation Portal
+
+Appendix J
+Tuition Payment Portal
+
+Appendix K
+Student Account Ledger Portal
+
+Appendix L
+Student Grade Report 
+
+Appendix M
+Software Installation Instructions
+		Users will be granted access to the drive that houses the front end of the database. The user will drag the database from the drive onto his/her desktop. Placing the database on the desktop will allow the user to make minimal customizations that won’t impact other users. If his/her copy gets corrupted, a fresh copy can be retrieved from the drive and placed on the desktop again. 
+
+Appendix N
+Acknowledgements
+	Many thanks to everyone that assisted me in delivering this product. Professor Scott Cordle offered valuable counsel from start to finish. Alexandria Sams and James Jones provided valuable insight to help ensure this database design delivered a professional appearance and flow. All of your contributions are very much appreciated.
+
